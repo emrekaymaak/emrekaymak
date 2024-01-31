@@ -4,11 +4,11 @@
 
 <p align="center"> 🌱 I’m currently learning Express.js & Mongodb </p>
 
-<p align="center"> 📫 How to reach me <strong>seyitbugraerden@gmail.com</strong> </p>
+<p align="center"> 📫 How to reach me <strong>emrekaymaak@gmail.com</strong> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://www.linkedin.com/in/bugraerden/](https://www.linkedin.com/in/emrekaymaak/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit_bugra_erden" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emrekaymaak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyit_bugra_erden" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/emreekaymakk/" target="blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="seyit_bugra_erden" height="40" width="40" /></a>
 
 </p>
