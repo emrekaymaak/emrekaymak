@@ -1,4 +1,4 @@
-![image](https://github.com/emrekaymaak/emrekaymak/assets/91380639/4531b95f-d3a0-421e-8808-07521da1d49f)<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A junior backend developer from Turkey!</h3>
 
 
