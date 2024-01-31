@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bugra</h1>
-<h3 align="center">A junior frontend developer from Turkey!</h3>
+<h1 align="center">Hi 👋, I'm Emre</h1>
+<h3 align="center">A junior backend developer from Turkey!</h3>
 
 
 <p align="center"> 🌱 I’m currently learning Express.js & Mongodb </p>
